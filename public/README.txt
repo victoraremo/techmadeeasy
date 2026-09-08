@@ -1,0 +1,1 @@
+Replace app screenshot placeholders with real assets when available. Add official Android download URL, version, download count, developer name, YouTube URL and TikTok URL before publishing.
